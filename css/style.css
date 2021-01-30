@@ -146,6 +146,8 @@
 }
 .star {
     position: absolute;
+    width: 100px;
+    
 }
 .star1 {
     position: absolute;
