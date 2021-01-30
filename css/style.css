@@ -5,6 +5,12 @@
 .divaider {
     position: absolute;
 }
+.image {
+    position: absolute;
+    width: 1350px;
+    height: 1000px;
+}
+
 .image1 {
     position: absolute;
     right: 2px;
@@ -17,13 +23,9 @@
     transform: rotate(360deg);
 }
 .a-tag{
+    position: relative;
     width: 500px;
 }
-.image {
-    width: 1350px;
-    height: 1000px;
-}
-
 .image2 {
     position: absolute;
     margin-left: 500px;
