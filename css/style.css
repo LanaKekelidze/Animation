@@ -42,15 +42,14 @@
     transition: all 5s linear 0.5s;
 }
 .image3:hover {
-    width: 350px;
-    animation: cloudmove 5s infinite ; 
+    width: 350px; 
 }
 .bigcloud1 {
     position: absolute;
 }
 .bigcloud {
-    
     width: 100px;
+    animation: cloudmove 5s infinite ;
 }
 .divaider4 {
     width: 50px;
@@ -60,6 +59,7 @@
 }
 .image4 {
     width: 100px;
+
 }
 .image5 {
     width: 100px;  
