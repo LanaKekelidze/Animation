@@ -16,9 +16,8 @@
 .image1:hover {
     transform: rotate(360deg);
 }
-.divaider-div {
-    position: relative;
-    background-color: aqua;
+.a-tag{
+    width: 500px;
 }
 .image {
     width: 1350px;
