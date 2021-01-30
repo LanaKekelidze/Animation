@@ -164,6 +164,7 @@
     margin-left: 900px;
 }
 .star20 {
+    width: 400px;
     animation: mymove 5s infinite;
 }
 @keyframes mymove {
