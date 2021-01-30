@@ -33,6 +33,7 @@
     height: 250px;
     transform: rotate(7deg);
     transition: all 10s ease 0.1s;
+    opacity: 0.7;
 }
 .image2:hover{
     width: 50px;
