@@ -1,0 +1,138 @@
+.body {
+    width: 130px;
+    height: 1000px;
+}
+.divaider {
+    position: absolute;
+}
+.image1 {
+    position: absolute;
+    right: 2px;
+    transition-property: all;
+    transition-duration: 10s;
+    transition-timing-function: linear;
+    transition-delay: 0.1s;
+}
+.image1:hover {
+    transform: rotate(360deg);
+}
+.image {
+    width: 1350px;
+    height: 1000px;
+}
+
+.image2 {
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 40px;
+    width: 650px;
+    height: 250px;
+    transform: rotate(7deg);
+    transition: all 10s ease 0.1s;
+}
+.image2:hover{
+    width: 50px;
+}
+.image3 {
+    position: absolute;
+    transition: all 5s linear 0.5s;
+}
+.image3:hover {
+    width: 350px;
+}
+.divaider4 {
+    width: 50px;
+    position: absolute;
+    margin-left: 1200px;
+    margin-top: 350px;
+}
+.image4 {
+    width: 100px;
+}
+.image5 {
+    width: 100px;  
+    position: absolute;
+    margin-left: 700px;
+    margin-top: 340px;
+    transition-property: all;
+    transition-duration: 5s;
+    transition-timing-function: linear;
+    transition-delay: 0.5s;
+}
+.image5:hover {
+    width: 200px;
+}
+ 
+.divaider6 {
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 280px;
+}
+.image6 {
+    width: 80px;
+}
+.divaider7 {
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 350px;
+}
+.image7 {
+    width: 70px;
+    
+}
+.divaider8 {
+    width: 50px;
+    position: absolute;
+    margin-left: 1000px;
+    margin-top: 700px;
+}
+.image8 {
+    width: 100px;
+}
+
+.divaider9 {
+    position: absolute;
+    margin-top: 550px;
+    margin-left: 350px
+}
+.image9 {
+    width: 100px ;
+}
+.image10 {
+    width: 70px;
+    position: absolute;
+    transition-property: all;
+    transition-duration: 5s;
+    transition-timing-function: linear;
+    transition-delay: 0.5s;
+    margin-top: 230px;
+    margin-left: 750px 
+}
+.image10:hover {
+    width: 150px;
+}
+
+.divaider11 {
+    position: absolute;
+    margin-top: 185px;
+    margin-left: 300px;
+}
+.image11 {
+    width: 40px;
+}
+.divaider12 {
+    position: absolute;
+    margin-top: 650px;
+    margin-left: 700px;
+}
+.image12 {
+    width: 100px;
+}
+.divaider13 {
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 1250px;
+}
+.image13 {
+    width: 80px;
+}
