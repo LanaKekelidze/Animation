@@ -144,7 +144,7 @@
     position: absolute;
     height: 1000px;
 }
-.star {
+.star20 {
     position: absolute;
     width: 300px;
 
@@ -163,11 +163,3 @@
     position: absolute;
     margin-left: 900px;
 }
-.star20 {
-    width: 400px;
-    animation: mymove 5s infinite;
-}
-@keyframes mymove {
-    from {top: 0px;}
-    to {top: 200px;}
-  }
