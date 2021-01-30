@@ -45,6 +45,13 @@
     width: 350px;
     animation: cloudmove 5s infinite ; 
 }
+.bigcloud1 {
+    position: absolute;
+}
+.bigcloud {
+    
+    width: 100px;
+}
 .divaider4 {
     width: 50px;
     position: absolute;
