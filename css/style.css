@@ -22,7 +22,7 @@
 }
 .a-tag {
     position: relative;
-    margin-left: 500px;
+    margin-left: 300px;
 }
 
 .image2 {
@@ -45,12 +45,10 @@
     width: 350px; 
 }
 .bigcloud1 {
-    /* position: absolute; */
     animation: cloudmove 5s infinite ;
 }
 .bigcloud {
     width: 100px;
-    animation: cloudmove 5s infinite ;
 }
 .divaider4 {
     width: 50px;
