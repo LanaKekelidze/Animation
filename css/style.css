@@ -147,7 +147,9 @@
 .star20 {
     position: absolute;
     width: 300px;
-
+}
+.star {
+    width: 300px;
 }
 .star1 {
     position: absolute;
