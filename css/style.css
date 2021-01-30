@@ -147,6 +147,8 @@
 .star20 {
     position: absolute;
     width: 300px;
+    transform:  rotate(0deg);
+    animation: myanimation 5s infinite;
 }
 .star {
     width: 300px;
@@ -164,4 +166,10 @@
 .star22 {
     position: absolute;
     margin-left: 900px;
+}
+@keyframes myanimation {
+    0%   {transform:  rotate(0deg);}
+  25%  {transform: rotate(100deg);}
+  75%  {transform: rotate(200deg);}
+  100% {transform: rotate(360deg); }
 }
