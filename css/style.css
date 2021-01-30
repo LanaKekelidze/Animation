@@ -45,7 +45,8 @@
     width: 350px; 
 }
 .bigcloud1 {
-    position: absolute;
+    /* position: absolute; */
+    animation: cloudmove 5s infinite ;
 }
 .bigcloud {
     width: 100px;
