@@ -141,4 +141,9 @@
 .image13 {
     width: 80px;
 }
-/* night */
+.night1 {
+    position: absolute;
+}
+.star {
+    position: absolute;
+}
