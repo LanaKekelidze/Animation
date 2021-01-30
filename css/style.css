@@ -14,12 +14,10 @@
 .image1 {
     position: absolute;
     right: 2px;
+    transform: rotate(360deg);
     transform: all 10s linear 0.1;
-    animation: mymove 5s infinite;
 }
-@keyframes mymove {
-    from {rotate: 360deg;}
-  }
+
 .image2 {
     position: absolute;
     margin-left: 500px;
