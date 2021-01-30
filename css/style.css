@@ -144,6 +144,6 @@
 .night1 {
     position: absolute;
 }
-.star {
+star, star1, star2 {
     position: absolute;
 }
